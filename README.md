@@ -8,3 +8,4 @@ testing 2
 Now editing by Rago after conflict resolution
 
 Rago Force push checking
+adding one more new line
